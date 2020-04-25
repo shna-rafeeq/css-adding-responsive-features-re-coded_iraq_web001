@@ -76,7 +76,7 @@
     }
     
     .menu-icon {
-      display:inline;
+      display:inline !important;
     }
     
     .reality {
