@@ -35,12 +35,8 @@
   }
   }
   
-  @media  screen and (max-width: 750px)  {
-    body{
-      @media screen and (min-width:700px) {
-      
-      }
-    }
+  @media  screen and (min-width:700px) and (max-width: 750px)  {
+    
     #navbar nav a {
       font-size:0.9em;
     }
