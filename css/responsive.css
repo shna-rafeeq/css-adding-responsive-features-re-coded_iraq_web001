@@ -71,9 +71,11 @@
     height:auto;
   }
   
- @media only screen and (width: 1108px) {
- 
-}
+   #navbar nav a {
+     visibility:hidden;
+    }
+  
+
 }
   
   
