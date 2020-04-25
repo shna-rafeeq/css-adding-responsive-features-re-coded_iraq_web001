@@ -35,7 +35,12 @@
   }
   }
   
-  @meda (max-width: 750px) and  (min-width:700px) {
+  @media  screen and (max-width: 750px)  {
+    body{
+      @media screen and (min-width:700px) {
+      
+      }
+    }
     #navbar nav a {
       font-size:0.9em;
     }
