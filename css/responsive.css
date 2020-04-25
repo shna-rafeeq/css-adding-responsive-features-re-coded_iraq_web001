@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1108px) {
+@media only screen and (width: 1108px) {
   .wrapper {
     width:90%;
   }
@@ -11,7 +11,7 @@
   }
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (width: 900px) {
   body {
     font-size:85%;
   }
@@ -35,7 +35,7 @@
   }
   }
   
-  @media only screen and (max-width: 750px) {
+  @media only screen and (width: 750px) {
     #navbar nav a {
       font-size:0.9em;
     }
