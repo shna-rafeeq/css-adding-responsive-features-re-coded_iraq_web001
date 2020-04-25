@@ -78,6 +78,10 @@
     .menu-icon {
       display:inline;
     }
+    
+    .reality {
+      display:none;
+    }
   
 
 }
