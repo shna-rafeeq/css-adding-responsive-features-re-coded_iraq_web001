@@ -74,6 +74,10 @@
    #navbar nav a {
      display:none;
     }
+    
+    .menu-icon {
+      display:inline;
+    }
   
 
 }
